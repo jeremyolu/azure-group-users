@@ -1,2 +1,2 @@
 # azure-group-users
-A light and convenient wrapper around the Azure AD Graph API for getting users/groups data.
+A light and convenient wrapper service around the Azure AD Graph API classes for retriving users/groups in Azure active directory.
